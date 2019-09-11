@@ -12,25 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ChapCase/Chap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MultiThreadOnXml.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/multiThread/MultiThreadOnXml.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,17 +29,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/paramter/parat.java">
+      <file leaf-file-name="Re.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Report/Re.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="108">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IgnoreTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/IgnoreTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding>
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupsOnMethod.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/groups/GroupsOnMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +80,7 @@
       <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="332">
               <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="e#79#80#0" expanded="true" />
@@ -89,11 +102,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="suite.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="suite.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suite.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/suite/loginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/suite/PayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuiteConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/suite/SuiteConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,7 +156,7 @@
       <file leaf-file-name="TCase.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TCase.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2275" />
+            <state relative-caret-position="-1966" />
           </provider>
         </entry>
       </file>
@@ -119,7 +174,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/course/testng/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/course/testng/suite/SuiteConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/course/testng/suite/loginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/course/testng/suite/PayTest.java" />
         <option value="$PROJECT_DIR$/suite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/course/testng/IgnoreTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/course/testng/groups/GroupsOnMethod.java" />
       </list>
     </option>
   </component>
@@ -140,10 +200,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="934" />
-    <option name="y" value="259" />
+    <option name="x" value="424" />
+    <option name="y" value="674" />
     <option name="width" value="1036" />
-    <option name="height" value="881" />
+    <option name="height" value="802" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -184,6 +244,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ChapCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,7 +260,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TCase" type="b2602c69:ProjectViewProjectNode" />
@@ -201,6 +270,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="paramter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.BaseTest">
+  <component name="RunManager" selected="TestNG.GroupsOnMethod">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -310,6 +387,87 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="D:/iface/AutoTest/TCase/suite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TCase" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suite.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GroupsOnMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TCase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.groups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.testng.groups" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.groups.GroupsOnMethod" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="IgnoreTest.ignore1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TCase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.IgnoreTest" />
+      <option name="METHOD_NAME" value="ignore1" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -335,9 +493,15 @@
     <list>
       <item itemvalue="TestNG.BaseTest.testCase1" />
       <item itemvalue="TestNG.BaseTest" />
+      <item itemvalue="TestNG.D:/iface/AutoTest/TCase/suite.xml" />
+      <item itemvalue="TestNG.IgnoreTest.ignore1" />
+      <item itemvalue="TestNG.GroupsOnMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GroupsOnMethod" />
+        <item itemvalue="TestNG.IgnoreTest.ignore1" />
+        <item itemvalue="TestNG.D:/iface/AutoTest/TCase/suite.xml" />
         <item itemvalue="TestNG.BaseTest" />
         <item itemvalue="TestNG.BaseTest.testCase1" />
       </list>
@@ -353,7 +517,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568192259693</updated>
-      <workItem from="1568192260893" duration="2789000" />
+      <workItem from="1568192260893" duration="6546000" />
     </task>
     <servers />
   </component>
@@ -367,9 +531,24 @@
     <history-entry file="BaseTest - 2019.09.11 at 17h 42m 22s.xml">
       <configuration name="BaseTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__iface_AutoTest_TCase_suite_xml - 2019.09.11 at 19h 26m 35s.xml">
+      <configuration name="D:/iface/AutoTest/TCase/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__iface_AutoTest_TCase_suite_xml - 2019.09.11 at 19h 27m 14s.xml">
+      <configuration name="D:/iface/AutoTest/TCase/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__iface_AutoTest_TCase_suite_xml - 2019.09.11 at 19h 29m 00s.xml">
+      <configuration name="D:/iface/AutoTest/TCase/suite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest_ignore1 - 2019.09.11 at 19h 37m 01s.xml">
+      <configuration name="IgnoreTest.ignore1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsOnMethod - 2019.09.11 at 19h 47m 38s.xml">
+      <configuration name="GroupsOnMethod" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2789000" />
+    <option name="totallyTimeSpent" value="6546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -377,7 +556,7 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32962447" />
+      <window_info anchor="bottom" id="Messages" weight="0.32938856" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -428,21 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThread/MultiThreadOnXml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="5" selection-start-line="14" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/paramter/parat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -457,14 +621,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TCase.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2275" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="332">
           <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="e#79#80#0" expanded="true" />
@@ -485,10 +644,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TCase.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1966" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/suite/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/suite/loginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/suite/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/suite.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multiThread/MultiThreadOnXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="5" selection-start-line="14" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report/Re.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/IgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/course/testng/groups/GroupsOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
